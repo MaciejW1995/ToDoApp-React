@@ -1,0 +1,29 @@
+input {
+    margin: 10px;
+    padding: 5px 10px;
+    font-size: 20px;
+    color: #73A580;
+    border: 1px solid #73A580;
+
+}
+
+.form {
+    font-size: 20px;
+    border-bottom: 1px solid gray;
+
+}
+
+.form button {
+    padding: 3px 10px;
+    text-transform: uppercase;
+    margin: 20px;
+    font-size: 20px;
+    color: #73A580;
+
+    
+}
+
+#date{
+    color: #73A580;
+
+}

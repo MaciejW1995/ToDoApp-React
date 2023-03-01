@@ -1,0 +1,26 @@
+body{
+  background-color: yellowgreen;
+  color:white;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Application {
+  margin-top: 40px;
+  background-color: white;
+  border: 1px solid white;
+  color: #73A580;
+  border-radius: 10px;
+  text-align: center;
+  padding: 15px;
+  width: 650px;
+  height: 800px;
+}
+
+button {
+  margin: 5px;
+  border-radius: 10px;
+  border: none;
+}
